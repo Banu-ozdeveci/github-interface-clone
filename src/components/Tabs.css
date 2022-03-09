@@ -1,0 +1,19 @@
+.nav-tabs,
+.nav-link.active,
+.nav-tabs .nav-item.show .nav-link {
+  font-weight: bold;
+  color: #000;
+  display: flex;
+  padding: 10px;
+  background-color: "#f0f8ff";
+  margin-top: 9px;
+  margin-bottom: 10px;
+}
+.nav-link {
+  font-size: 16px;
+  color: #586069;
+  display: flex;
+  padding: 30px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
