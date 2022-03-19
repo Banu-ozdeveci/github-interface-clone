@@ -30,6 +30,8 @@ $ cd ../projectName
 $ npm start
 ```
 
+## Demo
+https://user-images.githubusercontent.com/57198659/159130264-6720ba91-e911-4c04-a3db-9db280625e8f.mp4
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
